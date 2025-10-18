@@ -1,0 +1,13 @@
+{
+  "id": "55cbd3c6-2104-446e-babe-2212b700239b",
+  "title": "AI Voice Meeting Assistant Trial",
+  "timestamp": "2025-10-18T16:08:19.999127",
+  "transcript": "trial of a voice meeting assistant 19 myself Vedant. So, this record meeting caption and transcribe your conversation with AI. Recording control, student machine this week.",
+  "summary": "Vedant is conducting a trial of an AI-powered voice meeting assistant, designed to record, caption, and transcribe conversations. The trial will involve testing recording controls, and there's a mention of focusing on student machines this week, possibly for deployment or further testing.",
+  "action_items": [
+    "Implement recording control on the student machine this week",
+    "Evaluate the performance of the voice meeting assistant",
+    "Ensure AI recording, captioning, and transcription functionality is active"
+  ],
+  "audio_path": "meetings\\audio\\55cbd3c6-2104-446e-babe-2212b700239b.webm"
+}
